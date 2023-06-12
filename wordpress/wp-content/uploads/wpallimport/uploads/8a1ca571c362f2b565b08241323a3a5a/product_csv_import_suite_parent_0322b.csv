@@ -1,0 +1,2 @@
+post_title,post_name,post_status,sku,stock_status,images,tax:product_type,tax:product_cat,attribute:Color,attribute_data:Color,attribute:Size,attribute_data:Size
+Tea Shirt,tea-shirt,publish,TEA-OG,instock,https://woocommerce.com/wp-content/uploads/2022/03/variation-t-shirt.webp,variable,Tshirts,Red | Blue | Green | Yellow,1|1|1,S | M | L,2|1|1

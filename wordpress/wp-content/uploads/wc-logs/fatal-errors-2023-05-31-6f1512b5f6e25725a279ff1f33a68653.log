@@ -1,0 +1,4 @@
+2023-05-31T19:27:33+00:00 CRITICAL Allowed memory size of 1073741824 bytes exhausted (tried to allocate 20480 bytes) dans /app/wordpress/wp-content/plugins/woocommerce/includes/wc-core-functions.php à la ligne 1435
+
+2023-05-31T20:06:32+00:00 CRITICAL Cannot use [] for reading dans /app/wordpress/wp-content/themes/blocksy-child/woocommerce/single-product/add-to-cart/variable.php à la ligne 26
+

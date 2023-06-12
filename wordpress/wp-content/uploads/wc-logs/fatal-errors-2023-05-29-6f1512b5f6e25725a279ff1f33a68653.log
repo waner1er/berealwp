@@ -1,0 +1,16 @@
+2023-05-29T08:48:09+00:00 CRITICAL Allowed memory size of 1073741824 bytes exhausted (tried to allocate 20480 bytes) dans /app/wordpress/wp-content/plugins/woocommerce/includes/wc-core-functions.php à la ligne 1435
+
+2023-05-29T15:41:01+00:00 CRITICAL Uncaught Error: Call to undefined function dd() in /app/wordpress/wp-content/themes/blocksy-child/woocommerce/single-product/add-to-cart/variable.php:41
+Stack trace:
+#0 /app/wordpress/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /app/wordpress/wp-content/plugins/woocommerce/includes/wc-template-functions.php(1751): wc_get_template('single-product/...', Array)
+#2 /app/wordpress/wp-includes/class-wp-hook.php(308): woocommerce_variable_add_to_cart('')
+#3 /app/wordpress/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#4 /app/wordpress/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /app/wordpress/wp-content/plugins/woocommerce/includes/wc-template-functions.php(1697): do_action('woocommerce_var...')
+#6 /app/wordpress/wp-includes/class-wp-hook.php(308): woocommerce_template_single_add_to_cart('')
+#7 /app/wordpress/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#8 /app/wordpress/wp-includes/plugin.php(517): WP_Hook->do_acti dans /app/wordpress/wp-content/themes/blocksy-child/woocommerce/single-product/add-to-cart/variable.php à la ligne 41
+
+2023-05-29T19:48:13+00:00 CRITICAL Allowed memory size of 1073741824 bytes exhausted (tried to allocate 20480 bytes) dans /app/wordpress/wp-content/plugins/woocommerce/includes/wc-core-functions.php à la ligne 1435
+

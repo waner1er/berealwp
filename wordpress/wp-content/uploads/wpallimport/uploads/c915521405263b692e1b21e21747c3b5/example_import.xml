@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<product_name><![CDATA[Saint Laurent 1]]></product_name>
+		<description><![CDATA[THE SL 0000000000309 STANDARD RIM STYLE ANIMATED IN ONE  BLUE & BEYOND SKU.]]></description>
+		<categories><![CDATA[Spring Summer; January; 2022; Sun; UNISEX]]></categories>
+		<image_url><![CDATA[http://optify.dps-it.de/images/keringeyewear/2803365.png]]></image_url>
+		<price><![CDATA[3350]]></price>
+		<sku><![CDATA[SL 309 SUN]]></sku>
+		<variation_sku><![CDATA[SL 309 SUN-001]]></variation_sku>
+		<sex><![CDATA[Both]]></sex>
+		<lens_material><![CDATA[NXT LENS]]></lens_material>
+		<lens_colour><![CDATA[TRANSPARENT]]></lens_colour>
+		<lens_effect><![CDATA[PHOTOCROMATIC]]></lens_effect>
+		<lens_height><![CDATA[44,1]]></lens_height>
+		<lens_diagonal><![CDATA[60]]></lens_diagonal>
+	</node>
+	<node>
+		<product_name><![CDATA[Saint Laurent 2]]></product_name>
+		<description><![CDATA[THE SL 314 STANDARD RIM STYLE ANIMATED IN ONE  BLUE & BEYOND SKU.]]></description>
+		<categories><![CDATA[Spring Summer; January; 2022; Sun; WOMAN]]></categories>
+		<image_url><![CDATA[http://optify.dps-it.de/images/keringeyewear/2803378.png]]></image_url>
+		<price><![CDATA[335]]></price>
+		<sku><![CDATA[SL 314 SUN]]></sku>
+		<variation_sku><![CDATA[SL 314 SUN-001]]></variation_sku>
+		<sex><![CDATA[Female]]></sex>
+		<lens_material><![CDATA[NXT LENS]]></lens_material>
+		<lens_colour><![CDATA[TRANSPARENT]]></lens_colour>
+		<lens_effect><![CDATA[PHOTOCROMATIC]]></lens_effect>
+		<lens_height><![CDATA[49,8]]></lens_height>
+		<lens_diagonal><![CDATA[0]]></lens_diagonal>
+	</node>
+	<node>
+		<product_name><![CDATA[Saint Laurent 3]]></product_name>
+		<description><![CDATA[THE SL 386 STYLE ANIMATED IN ONE  BLUE & BEYOND SKU.]]></description>
+		<categories><![CDATA[Spring Summer; January; 2022; Sun; WOMAN]]></categories>
+		<image_url><![CDATA[http://optify.dps-it.de/images/keringeyewear/2803658.png]]></image_url>
+		<price><![CDATA[285]]></price>
+		<sku><![CDATA[SL 386 SUN]]></sku>
+		<variation_sku><![CDATA[SL 386 SUN-001]]></variation_sku>
+		<sex><![CDATA[Female]]></sex>
+		<lens_material><![CDATA[NXT LENS]]></lens_material>
+		<lens_colour><![CDATA[TRANSPARENT]]></lens_colour>
+		<lens_effect><![CDATA[PHOTOCROMATIC]]></lens_effect>
+		<lens_height><![CDATA[42,8]]></lens_height>
+		<lens_diagonal><![CDATA[63]]></lens_diagonal>
+	</node>
+	<node>
+		<product_name><![CDATA[Saint Laurent 4]]></product_name>
+		<description><![CDATA[A super-bold cat eye shape distinguished by a new temple design and a play of faceted volumes throughout front and temples.  The style is enriched by the Saint Laurent ionic corner angle details.  The logo is laser engraved on both temples.]]></description>
+		<categories><![CDATA[Spring Summer; January; 2022; Sun; WOMAN]]></categories>
+		<image_url><![CDATA[http://optify.dps-it.de/images/keringeyewear/2800917.png]]></image_url>
+		<price><![CDATA[315]]></price>
+		<sku><![CDATA[SL 506]]></sku>
+		<variation_sku><![CDATA[SL 506-001]]></variation_sku>
+		<sex><![CDATA[Female]]></sex>
+		<lens_material><![CDATA[NYLON]]></lens_material>
+		<lens_colour><![CDATA[BLACK]]></lens_colour>
+		<lens_effect><![CDATA[NONE]]></lens_effect>
+		<lens_height><![CDATA[42,5]]></lens_height>
+		<lens_diagonal><![CDATA[55,6]]></lens_diagonal>
+	</node>
+	<node>
+		<product_name><![CDATA[Saint Laurent 5]]></product_name>
+		<description><![CDATA[A super-bold cat eye shape distinguished by a new temple design and a play of faceted volumes throughout front and temples.  The style is enriched by the Saint Laurent ionic corner angle details.  The logo is laser engraved on both temples.]]></description>
+		<categories><![CDATA[Spring Summer; January; 2022; Sun; WOMAN]]></categories>
+		<image_url><![CDATA[http://optify.dps-it.de/images/keringeyewear/2800930.png]]></image_url>
+		<price><![CDATA[315]]></price>
+		<sku><![CDATA[SL 506]]></sku>
+		<variation_sku><![CDATA[SL 506-002]]></variation_sku>
+		<sex><![CDATA[Female]]></sex>
+		<lens_material><![CDATA[NYLON]]></lens_material>
+		<lens_colour><![CDATA[GREY]]></lens_colour>
+		<lens_effect><![CDATA[NONE]]></lens_effect>
+		<lens_height><![CDATA[42,5]]></lens_height>
+		<lens_diagonal><![CDATA[55,6]]></lens_diagonal>
+	</node>
+	<node>
+		<product_name><![CDATA[Saint Laurent 6]]></product_name>
+		<description><![CDATA[A super-bold cat eye shape distinguished by a new temple design and a play of faceted volumes throughout front and temples.  The style is enriched by the Saint Laurent ionic corner angle details.  The logo is laser engraved on both temples.]]></description>
+		<categories><![CDATA[Spring Summer; January; 2022; Sun; WOMAN]]></categories>
+		<image_url><![CDATA[http://optify.dps-it.de/images/keringeyewear/2800943.png]]></image_url>
+		<price><![CDATA[315]]></price>
+		<sku><![CDATA[SL 506]]></sku>
+		<variation_sku><![CDATA[SL 506-005]]></variation_sku>
+		<sex><![CDATA[Female]]></sex>
+		<lens_material><![CDATA[NYLON]]></lens_material>
+		<lens_colour><![CDATA[GREEN]]></lens_colour>
+		<lens_effect><![CDATA[NONE]]></lens_effect>
+		<lens_height><![CDATA[42,5]]></lens_height>
+		<lens_diagonal><![CDATA[55,6]]></lens_diagonal>
+	</node>
+	<node>
+		<product_name><![CDATA[Saint Laurent 7]]></product_name>
+		<description><![CDATA[A new bold unisex rectangular shape.  The style is enriched by the Saint Laurent ionic corner angle details.  The logo is laser engraved on both temples.  The style also includes one Blue & Beyond SKU.]]></description>
+		<categories><![CDATA[Spring Summer; January; 2022; Sun; UNISEX]]></categories>
+		<image_url><![CDATA[http://optify.dps-it.de/images/keringeyewear/2800956.png]]></image_url>
+		<price><![CDATA[305]]></price>
+		<sku><![CDATA[SL 507]]></sku>
+		<variation_sku><![CDATA[SL 507-001]]></variation_sku>
+		<sex><![CDATA[Both]]></sex>
+		<lens_material><![CDATA[NYLON]]></lens_material>
+		<lens_colour><![CDATA[GREY]]></lens_colour>
+		<lens_effect><![CDATA[NONE]]></lens_effect>
+		<lens_height><![CDATA[46,3]]></lens_height>
+		<lens_diagonal><![CDATA[61,6]]></lens_diagonal>
+	</node>
+	<node>
+		<product_name><![CDATA[Saint Laurent 7]]></product_name>
+		<description><![CDATA[A new bold unisex rectangular shape.  The style is enriched by the Saint Laurent ionic corner angle details.  The logo is laser engraved on both temples.  The style also includes one Blue & Beyond SKU.]]></description>
+		<categories><![CDATA[Spring Summer; January; 2022; Sun; UNISEX]]></categories>
+		<image_url><![CDATA[http://optify.dps-it.de/images/keringeyewear/2800969.png]]></image_url>
+		<price><![CDATA[305]]></price>
+		<sku><![CDATA[SL 507]]></sku>
+		<variation_sku><![CDATA[SL 507-003]]></variation_sku>
+		<sex><![CDATA[Both]]></sex>
+		<lens_material><![CDATA[NYLON]]></lens_material>
+		<lens_colour><![CDATA[GREEN]]></lens_colour>
+		<lens_effect><![CDATA[NONE]]></lens_effect>
+		<lens_height><![CDATA[46,3]]></lens_height>
+		<lens_diagonal><![CDATA[61,6]]></lens_diagonal>
+	</node>
+	<node>
+		<product_name><![CDATA[Saint Laurent 8]]></product_name>
+		<description><![CDATA[A new bold unisex rectangular shape.  The style is enriched by the Saint Laurent ionic corner angle details.  The logo is laser engraved on both temples.  The style also includes one Blue & Beyond SKU.]]></description>
+		<categories><![CDATA[Spring Summer; January; 2022; Sun; UNISEX]]></categories>
+		<image_url><![CDATA[http://optify.dps-it.de/images/keringeyewear/2800982.png]]></image_url>
+		<price><![CDATA[3050]]></price>
+		<sku><![CDATA[SL 507]]></sku>
+		<variation_sku><![CDATA[SL 507-005]]></variation_sku>
+		<sex><![CDATA[Both]]></sex>
+		<lens_material><![CDATA[NYLON]]></lens_material>
+		<lens_colour><![CDATA[GREEN]]></lens_colour>
+		<lens_effect><![CDATA[NONE]]></lens_effect>
+		<lens_height><![CDATA[46,3]]></lens_height>
+		<lens_diagonal><![CDATA[61,6]]></lens_diagonal>
+	</node>
+	<node>
+		<product_name><![CDATA[Saint Laurent 9]]></product_name>
+		<description><![CDATA[A new bold unisex rectangular shape.  The style is enriched by the Saint Laurent ionic corner angle details.  The logo is laser engraved on both temples.  The style also includes one Blue & Beyond SKU.]]></description>
+		<categories><![CDATA[Spring Summer; January; 2022; Sun; UNISEX]]></categories>
+		<image_url><![CDATA[http://optify.dps-it.de/images/keringeyewear/2800995.png]]></image_url>
+		<price><![CDATA[345]]></price>
+		<sku><![CDATA[SL 507]]></sku>
+		<variation_sku><![CDATA[SL 507-009]]></variation_sku>
+		<sex><![CDATA[Both]]></sex>
+		<lens_material><![CDATA[NXT LENS]]></lens_material>
+		<lens_colour><![CDATA[TRANSPARENT]]></lens_colour>
+		<lens_effect><![CDATA[PHOTOCROMATIC]]></lens_effect>
+		<lens_height><![CDATA[46,3]]></lens_height>
+		<lens_diagonal><![CDATA[61,6]]></lens_diagonal>
+	</node>
+	<node>
+		<product_name><![CDATA[Saint Laurent 10]]></product_name>
+		<description><![CDATA[The iconic SL 51 reintepreted in a new construction, mounting a metal rim around the frame.  The style features a nice play on front acetate colors, transparent temples, colorful lenses and metal tones.  The iconic corner angle enriches the front shape and the logo Saint Laurent is laser engraved on both temples.]]></description>
+		<categories><![CDATA[Spring Summer; January; 2022; Sun; UNISEX]]></categories>
+		<image_url><![CDATA[http://optify.dps-it.de/images/keringeyewear/2800137.png]]></image_url>
+		<price><![CDATA[325]]></price>
+		<sku><![CDATA[SL 51 RIM]]></sku>
+		<variation_sku><![CDATA[SL 51 RIM-003]]></variation_sku>
+		<sex><![CDATA[Both]]></sex>
+		<lens_material><![CDATA[NYLON]]></lens_material>
+		<lens_colour><![CDATA[GREEN]]></lens_colour>
+		<lens_effect><![CDATA[NONE]]></lens_effect>
+		<lens_height><![CDATA[40,4]]></lens_height>
+		<lens_diagonal><![CDATA[55,2]]></lens_diagonal>
+	</node>
+	<node>
+		<product_name><![CDATA[Saint Laurent 11]]></product_name>
+		<description><![CDATA[The iconic SL 51 reintepreted in a new construction, mounting a metal rim around the frame.  The style features a nice play on front acetate colors, transparent temples, colorful lenses and metal tones.  The iconic corner angle enriches the front shape and the logo Saint Laurent is laser engraved on both temples.]]></description>
+		<categories><![CDATA[Spring Summer; January; 2022; Sun; UNISEX]]></categories>
+		<image_url><![CDATA[http://optify.dps-it.de/images/keringeyewear/2800150.png]]></image_url>
+		<price><![CDATA[325]]></price>
+		<sku><![CDATA[SL 51 RIM]]></sku>
+		<variation_sku><![CDATA[SL 51 RIM-004]]></variation_sku>
+		<sex><![CDATA[Both]]></sex>
+		<lens_material><![CDATA[NYLON]]></lens_material>
+		<lens_colour><![CDATA[BLUE]]></lens_colour>
+		<lens_effect><![CDATA[NONE]]></lens_effect>
+		<lens_height><![CDATA[40,4]]></lens_height>
+		<lens_diagonal><![CDATA[55,2]]></lens_diagonal>
+	</node>
+	<node>
+		<product_name><![CDATA[Saint Laurent 12]]></product_name>
+		<description><![CDATA[The iconic SL 51 reintepreted in a new construction, mounting a metal rim around the frame.  The style features a nice play on front acetate colors, transparent temples, colorful lenses and metal tones.  The iconic corner angle enriches the front shape and the logo Saint Laurent is laser engraved on both temples.]]></description>
+		<categories><![CDATA[Spring Summer; January; 2022; Sun; UNISEX]]></categories>
+		<image_url><![CDATA[http://optify.dps-it.de/images/keringeyewear/2800202.png]]></image_url>
+		<price><![CDATA[325]]></price>
+		<sku><![CDATA[SL 51 RIM]]></sku>
+		<variation_sku><![CDATA[SL 51 RIM-008]]></variation_sku>
+		<sex><![CDATA[Both]]></sex>
+		<lens_material><![CDATA[NYLON]]></lens_material>
+		<lens_colour><![CDATA[BLUE]]></lens_colour>
+		<lens_effect><![CDATA[NONE]]></lens_effect>
+		<lens_height><![CDATA[40,4]]></lens_height>
+		<lens_diagonal><![CDATA[55,2]]></lens_diagonal>
+	</node>
+	<node>
+		<product_name><![CDATA[Saint Laurent 13]]></product_name>
+		<description><![CDATA[A feminine cat-eye sun shape distinguished by Saint Laurent iconic corner angle and metal temples.  The style is available in Saint Laurent iconic acetate color palette.  The logo is laser engraved on both temples.]]></description>
+		<categories><![CDATA[Spring Summer; January; 2022; Sun; WOMAN]]></categories>
+		<image_url><![CDATA[http://optify.dps-it.de/images/keringeyewear/2801073.png]]></image_url>
+		<price><![CDATA[295]]></price>
+		<sku><![CDATA[SL 510]]></sku>
+		<variation_sku><![CDATA[SL 510-001]]></variation_sku>
+		<sex><![CDATA[Female]]></sex>
+		<lens_material><![CDATA[NYLON]]></lens_material>
+		<lens_colour><![CDATA[BLACK]]></lens_colour>
+		<lens_effect><![CDATA[NONE]]></lens_effect>
+		<lens_height><![CDATA[43,8]]></lens_height>
+		<lens_diagonal><![CDATA[60,7]]></lens_diagonal>
+	</node>
+	<node>
+		<product_name><![CDATA[Saint Laurent 14]]></product_name>
+		<description><![CDATA[A feminine cat-eye sun shape distinguished by Saint Laurent iconic corner angle and metal temples.  The style is available in Saint Laurent iconic acetate color palette.  The logo is laser engraved on both temples.]]></description>
+		<categories><![CDATA[Spring Summer; January; 2022; Sun; WOMAN]]></categories>
+		<image_url><![CDATA[http://optify.dps-it.de/images/keringeyewear/2801086.png]]></image_url>
+		<price><![CDATA[295]]></price>
+		<sku><![CDATA[SL 510]]></sku>
+		<variation_sku><![CDATA[SL 510-003]]></variation_sku>
+		<sex><![CDATA[Female]]></sex>
+		<lens_material><![CDATA[NYLON]]></lens_material>
+		<lens_colour><![CDATA[GREEN]]></lens_colour>
+		<lens_effect><![CDATA[NONE]]></lens_effect>
+		<lens_height><![CDATA[43,8]]></lens_height>
+		<lens_diagonal><![CDATA[60,7]]></lens_diagonal>
+	</node>
+	<node>
+		<product_name><![CDATA[Saint Laurent 15]]></product_name>
+		<description><![CDATA[A strong squared sun shape distinguished by Saint Laurent iconic corner angle and metal temples.  The style is available in Saint Laurent iconic acetate color palette.  The logo is laser engraved on both temples.]]></description>
+		<categories><![CDATA[Spring Summer; January; 2022; Sun; WOMAN]]></categories>
+		<image_url><![CDATA[http://optify.dps-it.de/images/keringeyewear/2801112.png]]></image_url>
+		<price><![CDATA[295]]></price>
+		<sku><![CDATA[SL 511]]></sku>
+		<variation_sku><![CDATA[SL 511-001]]></variation_sku>
+		<sex><![CDATA[Female]]></sex>
+		<lens_material><![CDATA[NYLON]]></lens_material>
+		<lens_colour><![CDATA[BLACK]]></lens_colour>
+		<lens_effect><![CDATA[NONE]]></lens_effect>
+		<lens_height><![CDATA[41,2]]></lens_height>
+		<lens_diagonal><![CDATA[62,8]]></lens_diagonal>
+	</node>
+	<node>
+		<product_name><![CDATA[Saint Laurent 16]]></product_name>
+		<description><![CDATA[A strong squared sun shape distinguished by Saint Laurent iconic corner angle and metal temples.  The style is available in Saint Laurent iconic acetate color palette.  The logo is laser engraved on both temples.]]></description>
+		<categories><![CDATA[Spring Summer; January; 2022; Sun; WOMAN]]></categories>
+		<image_url><![CDATA[http://optify.dps-it.de/images/keringeyewear/2801125.png]]></image_url>
+		<price><![CDATA[295]]></price>
+		<sku><![CDATA[SL 511]]></sku>
+		<variation_sku><![CDATA[SL 511-002]]></variation_sku>
+		<sex><![CDATA[Female]]></sex>
+		<lens_material><![CDATA[NYLON]]></lens_material>
+		<lens_colour><![CDATA[GREY]]></lens_colour>
+		<lens_effect><![CDATA[NONE]]></lens_effect>
+		<lens_height><![CDATA[41,2]]></lens_height>
+		<lens_diagonal><![CDATA[62,8]]></lens_diagonal>
+	</node>
+	<node>
+		<product_name><![CDATA[Saint Laurent 17]]></product_name>
+		<description><![CDATA[A feminine style characterized by an accentuated front bending giving a sporty-chic look and a new temple design.  The style is enriched by the Saint Laurent ionic corner angle details.  The logo Saint Laurent is laser engraved on both temples.]]></description>
+		<categories><![CDATA[Spring Summer; January; 2022; Sun; WOMAN]]></categories>
+		<image_url><![CDATA[http://optify.dps-it.de/images/keringeyewear/2801307.png]]></image_url>
+		<price><![CDATA[295]]></price>
+		<sku><![CDATA[SL 515]]></sku>
+		<variation_sku><![CDATA[SL 515-001]]></variation_sku>
+		<sex><![CDATA[Female]]></sex>
+		<lens_material><![CDATA[NYLON]]></lens_material>
+		<lens_colour><![CDATA[BLACK]]></lens_colour>
+		<lens_effect><![CDATA[NONE]]></lens_effect>
+		<lens_height><![CDATA[39,7]]></lens_height>
+		<lens_diagonal><![CDATA[62,4]]></lens_diagonal>
+	</node>
+	<node>
+		<product_name><![CDATA[Saint Laurent 18]]></product_name>
+		<description><![CDATA[A feminine style characterized by an accentuated front bending giving a sporty-chic look and a new temple design.  The style is enriched by the Saint Laurent ionic corner angle details.  The logo Saint Laurent is laser engraved on both temples.]]></description>
+		<categories><![CDATA[Spring Summer; January; 2022; Sun; WOMAN]]></categories>
+		<image_url><![CDATA[http://optify.dps-it.de/images/keringeyewear/2801320.png]]></image_url>
+		<price><![CDATA[295]]></price>
+		<sku><![CDATA[SL 515]]></sku>
+		<variation_sku><![CDATA[SL 515-003]]></variation_sku>
+		<sex><![CDATA[Female]]></sex>
+		<lens_material><![CDATA[NYLON]]></lens_material>
+		<lens_colour><![CDATA[GREEN]]></lens_colour>
+		<lens_effect><![CDATA[NONE]]></lens_effect>
+		<lens_height><![CDATA[39,7]]></lens_height>
+		<lens_diagonal><![CDATA[62,4]]></lens_diagonal>
+	</node>
+</data>

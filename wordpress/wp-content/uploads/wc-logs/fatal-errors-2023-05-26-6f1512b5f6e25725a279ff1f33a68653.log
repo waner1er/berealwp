@@ -1,0 +1,33 @@
+2023-05-26T07:56:19+00:00 CRITICAL Uncaught Error: Call to a member function managing_stock() on null in /app/wordpress/wp-content/themes/blocksy-child/functions.php:13
+Stack trace:
+#0 /app/wordpress/wp-includes/class-wp-hook.php(310): prix_ht_et_ttc('<span class="wo...')
+#1 /app/wordpress/wp-includes/plugin.php(205): WP_Hook->apply_filters('<span class="wo...', Array)
+#2 /app/wordpress/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-product.php(1880): apply_filters('woocommerce_get...', '<span class="wo...', Object(WC_Product_Variation))
+#3 /app/wordpress/wp-content/plugins/woocommerce/includes/class-wc-product-variable.php(382): WC_Product->get_price_html()
+#4 /app/wordpress/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(508): WC_Product_Variable->get_available_variation(Object(WC_Product_Variation))
+#5 /app/wordpress/wp-includes/class-wp-hook.php(308): WC_AJAX::get_variation('')
+#6 /app/wordpress/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#7 /app/wordpress/wp-includes/plugin.php(517): WP_H dans /app/wordpress/wp-content/themes/blocksy-child/functions.php à la ligne 13
+
+2023-05-26T07:57:04+00:00 CRITICAL Uncaught Error: Call to a member function managing_stock() on null in /app/wordpress/wp-content/themes/blocksy-child/functions.php:13
+Stack trace:
+#0 /app/wordpress/wp-includes/class-wp-hook.php(310): prix_ht_et_ttc('<span class="wo...')
+#1 /app/wordpress/wp-includes/plugin.php(205): WP_Hook->apply_filters('<span class="wo...', Array)
+#2 /app/wordpress/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-product.php(1880): apply_filters('woocommerce_get...', '<span class="wo...', Object(WC_Product_Variation))
+#3 /app/wordpress/wp-content/plugins/woocommerce/includes/class-wc-product-variable.php(382): WC_Product->get_price_html()
+#4 /app/wordpress/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(508): WC_Product_Variable->get_available_variation(Object(WC_Product_Variation))
+#5 /app/wordpress/wp-includes/class-wp-hook.php(308): WC_AJAX::get_variation('')
+#6 /app/wordpress/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#7 /app/wordpress/wp-includes/plugin.php(517): WP_H dans /app/wordpress/wp-content/themes/blocksy-child/functions.php à la ligne 13
+
+2023-05-26T08:01:39+00:00 CRITICAL Uncaught Error: Call to a member function managing_stock() on null in /app/wordpress/wp-content/themes/blocksy-child/functions.php:13
+Stack trace:
+#0 /app/wordpress/wp-includes/class-wp-hook.php(310): prix_ht_et_ttc('<span class="wo...')
+#1 /app/wordpress/wp-includes/plugin.php(205): WP_Hook->apply_filters('<span class="wo...', Array)
+#2 /app/wordpress/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-product.php(1880): apply_filters('woocommerce_get...', '<span class="wo...', Object(WC_Product_Variation))
+#3 /app/wordpress/wp-content/plugins/woocommerce/includes/class-wc-product-variable.php(382): WC_Product->get_price_html()
+#4 /app/wordpress/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(508): WC_Product_Variable->get_available_variation(Object(WC_Product_Variation))
+#5 /app/wordpress/wp-includes/class-wp-hook.php(308): WC_AJAX::get_variation('')
+#6 /app/wordpress/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#7 /app/wordpress/wp-includes/plugin.php(517): WP_H dans /app/wordpress/wp-content/themes/blocksy-child/functions.php à la ligne 13
+

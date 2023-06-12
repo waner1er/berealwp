@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<post_title><![CDATA[Tea Shirt]]></post_title>
+		<post_name><![CDATA[tea-shirt]]></post_name>
+		<post_status><![CDATA[publish]]></post_status>
+		<sku><![CDATA[TEA-OG]]></sku>
+		<stock_status><![CDATA[instock]]></stock_status>
+		<images><![CDATA[https://woocommerce.com/wp-content/uploads/2022/03/variation-t-shirt.webp]]></images>
+		<taxproduct_type><![CDATA[variable]]></taxproduct_type>
+		<taxproduct_cat><![CDATA[Tshirts]]></taxproduct_cat>
+		<attributecolor><![CDATA[Red | Blue | Green | Yellow]]></attributecolor>
+		<attribute_datacolor><![CDATA[1|1|1]]></attribute_datacolor>
+		<attributesize><![CDATA[S | M | L]]></attributesize>
+		<attribute_datasize><![CDATA[2|1|1]]></attribute_datasize>
+	</node>
+</data>
